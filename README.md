@@ -9,3 +9,4 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/d7cd4e0f-5526-491e-871
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/a814f1bf-da6e-4163-9028-f86781c8f0f8/view?access_token=afbdb8ac3385c054b4b642edaae404b28643ab05e13a89e31afe4c1a001f5b48
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9923141a-7d5a-4d14-be67-672111c1f594/view?access_token=63622538299933c119b7c2cfe42e14504c7129b50a052820829da5d55c571dbf
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1c5ae01b-3d27-4045-847c-3d9162ca47b6/view?access_token=5fe554c2fac9911de1e2040330a948e5cd021292e17a2eeb236030ff90f5570f
+https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/1.1_2%20Two-Dimensional%20Tensors_v2.ipynb
