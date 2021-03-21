@@ -14,3 +14,4 @@ https://jupyterlab-38.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/ML0
 https://jupyterlab-38.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/ML0120EN/ML0120EN-Eager_Execution.ipynb
 https://jupyterlab-38.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/ML0120EN/ML0120EN-1.2-Review-LinearRegressionwithTensorFlow.ipynb
 https://jupyterlab-38.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/ML0120EN/ML0120EN-1.4-Review-LogisticRegressionwithTensorFlow.ipynb
+https://jupyterlab-38.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/ML0120EN/ML0120EN-2.2-Review-CNN-MNIST-Dataset.ipynb
